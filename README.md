@@ -19,7 +19,7 @@
   - [Contact Information](#contact-information)
 
 <details>
-  <summary>## EDUCATION</summary>
+  <summary><b>EDUCATION</b></summary>
   
   - Ph.D., Earth and Atmospheric Science | Indiana University - Bloomington (In-progress, PhD Candidate)
   - M.Sc., Earth and Atmospheric Science | Indiana University - Bloomington (_May 2023_)
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary>## RESEARCH INTERESTS</summary>
+  <summary><b>RESEARCH INTERESTS</b></summary>
 
   - Climate and Weather Extremes
   - Climate change impacts and adaptation
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary>## KEY SKILLS</summary>
+  <summary><b>KEY SKILLS</b></summary>
 
   - High-performance computing
   - Large Data Analytics and Machine Learning Techniques for Data Analysis.
@@ -51,34 +51,34 @@
 </details>
 
 <details>
-  <summary>## WORK EXPERIENCE</summary>
+  <summary><b>WORK EXPERIENCE</b></summary>
   
-  ### Research Assistant - [Dr. Travis O'Brien Lab](https://earth.indiana.edu/directory/faculty/obrien-travis.html) (_2021 - present_)
+  #### Research Assistant - [Dr. Travis O'Brien Lab](https://earth.indiana.edu/directory/faculty/obrien-travis.html) (_2021 - present_)
   - Regional and Global Model Analysis Project (RGMA): Compound extreme weather (MCS+LPS) (_2023 - present_)
   - Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE 3 and 4). (PI: [Dr. William Collins](https://profiles.lbl.gov/11626-william-collins))(_2021 - present_)
   - Atmospheric River Tracking Methods Intercomparison Project (ARTMIP) (_2021 - 2023_)
   
-  ### Associate Instructor - Indiana University, Bloomington Indiana (_2021-present)
+  #### Associate Instructor - Indiana University, Bloomington Indiana (_2021-present_)
   - Associate Instructor for Weather and You (_Fall 2024_)
   - Associate Instructor for Physical Meteorology and Climatology at Indiana University, Bloomington Indiana, USA. (_Fall 2022_)
   - Facilitator for OneQuantumGhana Python tuition, collaborating with Python for Climate Applications (PY4CA). (_June 2022_)
   - Associate Instructor for Extreme Weather (_Fall 2021_)
 
-  ### Research Assistant - [Dr. Jeffery N. A. Aryee Lab](https://orcid.org/0000-0002-4481-1441)
+  #### Research Assistant - [Dr. Jeffery N. A. Aryee Lab](https://orcid.org/0000-0002-4481-1441)
   - Scientific research assistant for the Global Challenges Research Fund African-Science for Weather Information and Forecasting Techniques (GCRF African-SWIFT) project, KNUST. (_2020 - 2021_)
   - Satellite installation, data analysis, and image-processing and automation programming for Global Challenges Research Fund African-Science for Weather Information and Forecasting Techniques (GCRF African SWIFT) project in Kwame Nkrumah University of Science and Technology (KNUST) and Ghana Meteorological Agency (GMET).
 
-  ### Teaching Assistant - Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (_2020 - 2021_)
+  #### Teaching Assistant - Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (_2020 - 2021_)
   - Teaching Assistant for FORTRAN Programming, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana (_Sept. 2020 - Aug. 2021_)
   - Facilitator for Python for Climate Application, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana. (_Nov. - Dec. 2020_)
   - Facilitator for Python for Climate Applications, Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana. (_Oct. – Nov. 2019_)
 
-  ### Ghana Meteorological Agency - (_2020 - 2021_)
+  #### Ghana Meteorological Agency - (_2020 - 2021_)
   - Satellite installation and automation
 </details>
 
 <details>
-  <summary>## PROJECTS</summary>
+  <summary><b>PROJECTS</b></summary>
 
   - Atmospheric Rivers Tracking Methods Intercomparison Project (ARTMIP)
   - Regional and Global Model Analysis Project (RGMA) [Compound Extreme Events and their impacts]
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-  <summary>## PUBLICATIONS</summary>
+  <summary><b>PUBLICATIONS</b></summary>
 
   - Rush, W. D., Lora, J. M., Skinner, C., Menemenlis, S., Shields, C. A., Ullrich, P. A., ... & Quagraine, K. T. (2024). Atmospheric River Detection Under Changing Seasonality and Mean-State Climate: A[...]
   - Quagraine, K. A., Hewitson, B., Nkrumah, F., Quagraine, K. T., & Egbebiyi, T. S. (2024). A simple subtropical high‐pressure system index over the South Atlantic. Atmospheric Science Letters, e1266[...]
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-  <summary>## CONFERENCES/WORKSHOPS ATTENDED (✝ means presented)</summary>
+  <summary><b>CONFERENCES/WORKSHOPS ATTENDED (✝ means presented)</b></summary>
 
   - ✝American Geophysical Union (AGU 2024): Similarities in synoptic scale meteorology for AR detectors over west coast US (_December 2024_).
   - Micro2Macro Cloud Microphysical processes workshop (_October 2024_).
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-  <summary>## SERVICE</summary>
+  <summary><b>SERVICE</b></summary>
 
   - [Bloomington South High School Climate Engineering Volunteer.](https://tinyurl.com/yc5pp2nt) (_April 5, 2024_)
   - Science Fest with the Department of Earth and Atmospheric Science Indiana University - Bloomington Indiana (_Oct. 5, 2024, and Oct. 9, 2022_).
@@ -124,7 +124,7 @@
 </details>
 
 <details>
-  <summary>## Contact Information</summary>
+  <summary><b>Contact Information</b></summary>
 
   - 📧 Email: [Kwesi T. Quagraine](ktquagra@iu.edu) / kwsquagraine@gmail.com
   - 🔗 LinkedIn: [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
