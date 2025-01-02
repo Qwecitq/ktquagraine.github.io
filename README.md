@@ -63,19 +63,19 @@
 - Klutse, N. A. B., Quagraine, K. A., Nkrumah, F., Quagraine, K. T., Berkoh-Oforiwaa, R., Dzrobi, J. F., & Sylla, M. B. (2021). The Climatic Analysis of Summer Monsoon Extreme Precipitation Events over West Africa in CMIP6 Simulations. Earth Systems and Environment, 1-17.
 - October 2020:  West African Summer Monsoon Precipitation Variability as Represented by Reanalysis Datasets (Climate 8, no. 10 (2020): 111).
 
-## CONFERENCES/WORKSHOPS ATTENDED ($^✝$ means presented)
-- $^✝$American Geophysical Union (AGU 2024): Similarities in synoptic scale meteorology for AR detectors over west coast US (_✝December 2024_).
+## CONFERENCES/WORKSHOPS ATTENDED (^✝^ means presented)
+- ^✝^American Geophysical Union (AGU 2024): Similarities in synoptic scale meteorology for AR detectors over west coast US (_✝December 2024_).
 - Micro2Macro Cloud Microphysical processes workshop (_October 2024_).
 - Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Workshop Retreat (_July 2024_).
 - COLDEX Leadership Conference (_July 2024_).
-- $^✝$5th International Atmospheric Rivers Conference: Atmospheric River Detectors capture baroclinic waves along the west coast of the US (_✝June 2024_).
+- ^✝^5th International Atmospheric Rivers Conference: Atmospheric River Detectors capture baroclinic waves along the west coast of the US (_✝June 2024_).
 - Earth Systems and Predictability Across Timescales Workshop (_April 2024_).
 - World Climate Research Programme (_✝October 2023_).
-- $^✝$Clemson Interdisciplinary Workshop on Weather and Climate Extremes (_✝May 2022_).
-- $^✝$American Geophysical Union Conference 2022 (AGU22): Assessing atmospheric river detectors to determine underlying phenomena (_✝December 2022_).
-- $^✝$International Atmospheric Rivers Conference (IARC) (_October 2022_).
-- $^✝$Midwest Climate Conference: Assessing atmospheric river detectors to determine underlying phenomena (_✝September 14 - September 15, 2022_).
-- $^✝$American Geophysical Union 2021 (AGU21)): Quantifying Climate Change Over West Africa: Case Assessment Of Temperature Variabilities And Extremes (_✝December 2021_).
+- ^✝^Clemson Interdisciplinary Workshop on Weather and Climate Extremes (_✝May 2022_).
+- ^✝^American Geophysical Union Conference 2022 (AGU22): Assessing atmospheric river detectors to determine underlying phenomena (_✝December 2022_).
+- ^✝^International Atmospheric Rivers Conference (IARC) (_October 2022_).
+- ^✝^Midwest Climate Conference: Assessing atmospheric river detectors to determine underlying phenomena (_✝September 14 - September 15, 2022_).
+- ^✝^American Geophysical Union 2021 (AGU21)): Quantifying Climate Change Over West Africa: Case Assessment Of Temperature Variabilities And Extremes (_✝December 2021_).
 
 ## SERVICE
 - [Bloomington South High School Climate Engineering Volunteer.](https://tinyurl.com/yc5pp2nt) (_April 5, 2024_)
