@@ -100,9 +100,8 @@
 
 ## Contact Information
 - 📧 Email: [Kwesi T. Quagraine](ktquagra@iu.edu) / kwsquagraine@gmail.com
-- <img src="Assets/linkedin.png" alt="LinkedIn Logo" width="60" height="20"> [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
-- <img src="Assets/orcid.png" alt="ORCID Logo" width="30" height="20"> [ORCID](https://orcid.org/0000-0002-6452-1847)
-
+- 🔗 LinkedIn: ![LinkedIn Logo](Assets/linkedin.png) [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
+- ![ORCID Logo](Assets/orcid.png) [ORCID](https://orcid.org/0000-0002-6452-1847)
 
 
 
