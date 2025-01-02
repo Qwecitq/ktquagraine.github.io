@@ -9,7 +9,7 @@
 ### Research Assitant - ![Dr. Travis O'Brien Lab](https://earth.indiana.edu/directory/faculty/obrien-travis.html) (_2021 - present_)
 
 - Regional and Global Model Analysis Project (RGMA): Compound extreme weather (MCS+LPS) (_2023 - present_)
-- Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE 3 and 4). (PI: ![Dr. William Collins](https://profiles.lbl.gov/11626-william-collins)(_2021 - present_)
+- Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE 3 and 4). (PI: ![Dr. William Collins](https://profiles.lbl.gov/11626-william-collins))(_2021 - present_)
 - Atmospheric River Tracking Methods Intercomparison Project (ARTMIP) (_2021 - 2023_)
   
 ### Associate Instructor - Indiana University, Bloomington Indiana (_2021-present)
