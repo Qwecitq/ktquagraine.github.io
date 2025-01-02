@@ -1,7 +1,7 @@
-# Earth and Atmospheric Scientist
+# EARTH, ATMOSPHERIC AND DATA SCIENTIST
 ## Table of Contents
 
-- [Earth and Atmospheric Scientist](#earth-and-atmospheric-scientist)
+- [EARTH, ATMOSPHERIC AND DATA SCIENTIST](#earth-and-atmospheric-scientist)
   - [EDUCATION](#education)
   - [RESEARCH INTERESTS](#research-interests)
   - [KEY SKILLS](#key-skills)
