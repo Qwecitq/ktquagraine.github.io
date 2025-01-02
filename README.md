@@ -96,7 +96,7 @@
 - Mentor for undergraduate research (_Jan. 2021 - Aug. 2021_).
 - National Service to Ghana (Kwame Nkrumah University of Sciecne and Techonology, Kumasi, Ghana (_Aug. 2020 - Sept. 2021_).
 - President of the Students' Representative Counsel, International Business Bureau, Cape Coast, Ghana (_2015_)
-
+  
 
 ## Contact Information
 - 📧 Email: [Kwesi T. Quagraine](ktquagra@iu.edu) / kwsquagraine@gmail.com
