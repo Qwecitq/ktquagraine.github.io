@@ -15,7 +15,7 @@
 - Ph.D., Earth and Atmospheric Science | Indiana University - Bloomington (2023 - present, PhD Candidate)
 - M.Sc., Earth and Atmospheric Science | Indiana University - Bloomington (_May 2023_)
 - B.Sc., Meteorology and Climate Science | Kwame Nkrumah University of Science and Technology (_Aug. 2020_)
-- Diploma, Computer Hardware Techician | International Bussiness Bureau (_2015_)
+- Diploma, Computer Hardware Technician | International Business Bureau (_2015_)
 
 ## RESEARCH INTERESTS
 - Climate and Weather Extremes
@@ -92,6 +92,7 @@
 ## SERVICE
 - [Bloomington South High School Climate Engineering Volunteer.](https://tinyurl.com/yc5pp2nt) (_April 5, 2024_)
 - Science Fest with the Department of Earth and Atmospheric Science Indiana University - Bloomington Indiana (_Oct. 5, 2024, and Oct. 9, 2022_).
+- Reviewer - Journal of Geophysical Sciences - Atmosphere (_2023_)
 - Mentor for undergraduate research (_Jan. 2021 - Aug. 2021_).
 - National Service to Ghana (Kwame Nkrumah University of Sciecne and Techonology, Kumasi, Ghana (_Aug. 2020 - Sept. 2021_).
 - President of the Students' Representative Counsel, International Business Bureau, Cape Coast, Ghana (_2015_)
