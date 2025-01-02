@@ -1,5 +1,21 @@
 # Earth and Atmospheric Scientist
+## Table of Contents
 
+- [Earth and Atmospheric Scientist](#earth-and-atmospheric-scientist)
+  - [EDUCATION](#education)
+  - [RESEARCH INTERESTS](#research-interests)
+  - [KEY SKILLS](#key-skills)
+  - [WORK EXPERIENCE](#work-experience)
+    - [Research Assistant - Dr. Travis O'Brien Lab](#research-assistant---dr-travis-obrien-lab)
+    - [Associate Instructor - Indiana University, Bloomington Indiana](#associate-instructor---indiana-university-bloomington-indiana)
+    - [Research Assistant - Dr. Jeffery N. A. Aryee Lab](#research-assistant---dr-jeffery-n-a-aryee-lab)
+    - [Teaching Assistant - Kwame Nkrumah University of Science and Technology, Kumasi, Ghana](#teaching-assistant---kwame-nkrumah-university-of-science-and-technology-kumasi-ghana)
+    - [Ghana Meteorological Agency](#ghana-meteorological-agency)
+  - [PROJECTS](#projects)
+  - [PUBLICATIONS](#publications)
+  - [CONFERENCES/WORKSHOPS ATTENDED](#conferencesworkshops-attended)
+  - [SERVICE](#service)
+    
 ## EDUCATION
 - Ph.D., Earth and Atmospheric Science | Indiana University - Bloomington (In-progress, PhD Candidate)
 - M.Sc., Earth and Atmospheric Science | Indiana University - Bloomington (_May 2023_)
@@ -37,7 +53,7 @@
 - Facilitator for OneQuantumGhana Python tuition, collaborating with Python for Climate Applications (PY4CA). (_June 2022_)
 - Associate Instructor for Extreme Weather (_Fall 2021_)
 
-### Reasearch Assistant - [Dr Jeffery N. A. Aryee Lab](https://orcid.org/0000-0002-4481-1441)
+### Research Assistant - [Dr Jeffery N. A. Aryee Lab](https://orcid.org/0000-0002-4481-1441)
 - Scientific research assistant for the Global Challenges Research Fund African-Science for Weather Information and Forecasting Techniques (GCRF African-SWIFT) project, KNUST. (_2020 - 2021_)
 - Satellite installation, data analysis, and image-processing and automation programming for Global Challenges Research Fund African-Science for Weather Information and Forecasting Techniques (GCRF African SWIFT) project in Kwame Nkrumah University of Science and Technology (KNUST) and Ghana Meteorological Agency (GMET).
 
@@ -84,8 +100,10 @@
 - National Service to Ghana (Kwame Nkrumah University of Sciecne and Techonology, Kumasi, Ghana (_Aug. 2020 - Sept. 2021_).
 
 
-
-
+## Contact Information
+- 📧 Email: [Kwesi T. Quagraine](ktquagra@iu.edu) / kwsquagraine@gmail.com
+- 🔗 LinkedIn: [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
+- ![ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6452-1847)
 
 
 
