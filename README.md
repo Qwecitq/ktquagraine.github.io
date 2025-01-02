@@ -100,9 +100,8 @@
 
 ## Contact Information
 - 📧 Email: [Kwesi T. Quagraine](ktquagra@iu.edu) / kwsquagraine@gmail.com
-- 🔗 LinkedIn: [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
-- ![ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6452-1847)
-
+- 🔗 LinkedIn: ![LinkedIn Logo](Assets/linkedin.png) [Kwesi T. Quagraine](https://www.linkedin.com/in/kwesi-quagraine-92b510107/)
+- ![ORCID Logo](Assets/orcid.png) [ORCID](https://orcid.org/0000-0002-6452-1847)
 
 
 
