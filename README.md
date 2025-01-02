@@ -47,17 +47,17 @@
 - October 2020:  West African Summer Monsoon Precipitation Variability as Represented by Reanalysis Datasets (Climate 8, no. 10 (2020): 111).
 
 ## CONFERENCES/WORKSHOPS ATTENDED (✝ means presented)
-✝December 2024 - American Geophysical Union (AGU 2024): Similarities in synoptic scale 		meteorology for AR detectors over west coast US
-October 2024 - Micro2Macro Cloud Microphysical processes workshop. 
-July 2024 - Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Workshop Retreat. 
-July 2024 - COLDEX Leadership Conference 
-✝June 2024 - 5th International Atmospheric Rivers Conference: Atmospheric River Detectors capture baroclinic waves along the west coast of the US. 
-April 2024 - Earth Systems and Predictability Across Timescales Workshop.
-✝October 2023 - World Climate Research Programme
-✝May 2022 - Clemson Interdisciplinary Workshop on Weather and Climate Extremes
-✝December 2022 - American Geophysical Union Conference 2022 (AGU22): Assessing atmospheric river detectors to determine underlying phenomena.
-✝October 2022 -  International Atmospheric Rivers Conference (IARC)
-✝September 14 - September 15, 2022 - Midwest Climate Conference: Assessing atmospheric river detectors to determine underlying phenomena. 
-✝December 2021 - American Geophysical Union 2021 (AGU21)): Quantifying Climate Change Over West Africa: Case Assessment Of Temperature Variabilities And Extremes.
+- American Geophysical Union (AGU 2024): Similarities in synoptic scale meteorology for AR detectors over west coast US (_✝December 2024_)
+- Micro2Macro Cloud Microphysical processes workshop (_October 2024_)
+- Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Workshop Retreat. (_July 2024_)
+- COLDEX Leadership Conference (_July 2024_)
+- 5th International Atmospheric Rivers Conference: Atmospheric River Detectors capture baroclinic waves along the west coast of the US. (_✝June 2024_)
+- Earth Systems and Predictability Across Timescales Workshop. (_April 2024_)
+- World Climate Research Programme (_✝October 2023_)
+- Clemson Interdisciplinary Workshop on Weather and Climate Extremes (_✝May 2022_)
+- American Geophysical Union Conference 2022 (AGU22): Assessing atmospheric river detectors to determine underlying phenomena. (_✝December 2022_)
+-  International Atmospheric Rivers Conference (IARC) (_✝October 2022_)
+- Midwest Climate Conference: Assessing atmospheric river detectors to determine underlying phenomena. (_✝September 14 - September 15, 2022_)
+- American Geophysical Union 2021 (AGU21)): Quantifying Climate Change Over West Africa: Case Assessment Of Temperature Variabilities And Extremes. (_✝December 2021_)
 
 
